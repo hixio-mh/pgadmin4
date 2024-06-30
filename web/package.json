@@ -153,7 +153,7 @@
     "styled-components": "^5.2.1",
     "uplot": "^1.6.24",
     "uplot-react": "^1.1.4",
-    "valid-filename": "^2.0.1",
+    "valid-filename": "^4.0.0",
     "wkx": "^0.5.0",
     "xterm": "^4.11.0",
     "xterm-addon-fit": "^0.5.0",
