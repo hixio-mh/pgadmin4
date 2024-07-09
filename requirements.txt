@@ -58,7 +58,7 @@ azure-mgmt-subscription==3.1.1
 azure-identity==1.17.1; python_version > '3.7'
 azure-identity==1.15.0; python_version <= '3.7'
 google-api-python-client==2.*
-google-auth-oauthlib==1.2.0
+google-auth-oauthlib==1.2.1
 keyring==24.*; python_version > '3.7'
 keyring==23.*; python_version <= '3.7'
 Werkzeug==3.0.*; python_version > '3.7'
