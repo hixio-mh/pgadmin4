@@ -64,6 +64,6 @@ keyring==23.*; python_version <= '3.7'
 Werkzeug==3.0.*; python_version > '3.7'
 Werkzeug==2.2.3; python_version <= '3.7'
 typer[all]==0.12.*
-setuptools==70.*; python_version >= '3.12'
+setuptools==74.*; python_version >= '3.12'
 jsonformatter~=0.3.2
 libgravatar==1.0.*
