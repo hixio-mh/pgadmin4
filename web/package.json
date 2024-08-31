@@ -65,7 +65,7 @@
     "typescript": "^5.4.5",
     "url-loader": "^4.1.1",
     "webfonts-loader": "^8.0.1",
-    "webpack": "^5.88.2",
+    "webpack": "^5.94.0",
     "webpack-bundle-analyzer": "^4.8.0",
     "webpack-cli": "^5.1.4",
     "yarn-audit-html": "4.0.0"
@@ -93,7 +93,7 @@
     "ajv": "^8.8.2",
     "anti-trojan-source": "^1.4.0",
     "aspen-decorations": "^1.0.2",
-    "axios": "^1.7.2",
+    "axios": "^1.7.4",
     "babelify": "~10.0.0",
     "bignumber.js": "^9.0.1",
     "brace": "^0.11.1",
